@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'f663bd8010654b7c944f085d1371b649',
+  rootNotionPageId: 'dbbd56baf1554d119fa247c27e6dbf06',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '书架',
-  domain: 'https://conscious-bait-f40.notion.site/f663bd8010654b7c944f085d1371b649?pvs=4',
+  name: '轮岗',
+  domain: 'https://conscious-bait-f40.notion.site/dbbd56baf1554d119fa247c27e6dbf06?pvs=4',
   author: 'Haondae Lee',
 
   // open graph metadata (optional)
